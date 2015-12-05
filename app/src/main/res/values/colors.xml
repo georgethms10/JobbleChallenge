@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9E9E9E</color>
+    <color name="colorPrimaryDark">#616161</color>
+    <color name="colorAccent">#fff240</color>
+
+
+
+    <color name="orange">#fff240</color>
+    <color name="orange_activated">#99fff240</color>
+    <color name="white">#ffffff</color>
+    <color name="iron">#a6a6a6</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+</resources>
